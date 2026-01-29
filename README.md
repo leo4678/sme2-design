@@ -11,4 +11,5 @@
 ## 文档说明
 - `sme2_hardware_design_specification.md` - SME2硬件设计规范文档
 - `sme2_detailed_hardware_architecture.md` - SME2详细硬件架构文档，包含CME单元详细规格
+- `sme2_context_ram_and_concurrency.md` - SME2 Context RAM详解和任务并发执行机制
 - `thinking_process_and_reading_guide.md` - 思考过程与阅读指南
