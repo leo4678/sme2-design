@@ -7,3 +7,8 @@
 - `software_validation/` - 软件层面验证代码
 - `performance_benchmarks/` - 性能基准测试代码
 - `test_cases/` - 各种测试用例
+
+## 文档说明
+- `sme2_hardware_design_specification.md` - SME2硬件设计规范文档
+- `sme2_detailed_hardware_architecture.md` - SME2详细硬件架构文档，包含CME单元详细规格
+- `thinking_process_and_reading_guide.md` - 思考过程与阅读指南
